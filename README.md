@@ -1,6 +1,7 @@
 # Test_GA
 
-[![Analytics](https://ga-beacon.appspot.com/G-YTECEZDWJT/readme)](https://github.com/cosmos6106/Test_GA)
+[![Analytics](https://www.google-analytics.com/collect?v=2&tid=G-YTECEZDWJT&cid=555&t=event&en=eventName)](https://github.com/cosmos6106/Test_GA)
+
 
 
 
